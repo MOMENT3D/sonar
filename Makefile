@@ -2,7 +2,7 @@
 ####
 #### Written by Stephan Wendel aka KwadFan <me@stephanwe.de>
 #### Copyright 2022
-#### https://github.com/mainsail-crew/sonar
+#### https://github.com/MOMENT3D/sonar
 ####
 #### This File is distributed under GPLv3
 ####

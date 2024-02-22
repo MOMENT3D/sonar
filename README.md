@@ -6,7 +6,7 @@ A small Keepalive daemon for MainsailOS (or any other Raspberry Pi OS based Imag
 
 ## Install
 
-    git clone https://github.com/mainsail-crew/sonar.git
+    git clone https://github.com/MOMENT3D/sonar.git
     cd ~/sonar
     make config
     sudo make install
@@ -23,7 +23,7 @@ Simply add
     [update_manager sonar]
     type: git_repo
     path: ~/sonar
-    origin: https://github.com/mainsail-crew/sonar.git
+    origin: https://github.com/MOMENT3D/sonar.git
     primary_branch: main
     managed_services: sonar
     install_script: tools/install.sh
@@ -87,4 +87,4 @@ I hope you will find sonar useful and it blows away your connection losts :)
 
 ### Contributing
 
-See [How to contribute?](https://github.com/mainsail-crew/sonar/blob/main/.github/CONTRIBUTING.md)
+See [How to contribute?](https://github.com/MOMENT3D/sonar/blob/main/.github/CONTRIBUTING.md)

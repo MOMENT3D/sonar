@@ -2,13 +2,13 @@
 
 Hi! I'm really excited that you are interested in contributing to Sonar. Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
 
--   [Code of Conduct](https://github.com/mainsail-crew/sonar/blob/main/.github/CODE_OF_CONDUCT.md)
+-   [Code of Conduct](https://github.com/MOMENT3D/sonar/blob/main/.github/CODE_OF_CONDUCT.md)
 -   [Issue Reporting Guidelines](#issue-reporting-guidelines)
 -   [Pull Request Guidelines](#pull-request-guidelines)
 
 ## Issue Reporting Guidelines
 
--   Use [https://github.com/mainsail-crew/sonar/issues](https://github.com/mainsail-crew/sonar/issues) to create new issues.
+-   Use [https://github.com/MOMENT3D/sonar/issues](https://github.com/MOMENT3D/sonar/issues) to create new issues.
 
 ## Pull Request Guidelines
 
@@ -29,7 +29,7 @@ Hi! I'm really excited that you are interested in contributing to Sonar. Before 
 
 ## Code Style
 
-All submitted scripts should meet the settings of [.editorconfig](https://github.com/mainsail-crew/sonar/blob/main/.editorconfig) \
+All submitted scripts should meet the settings of [.editorconfig](https://github.com/MOMENT3D/sonar/blob/main/.editorconfig) \
 If possible use an PlugIn/Addon for your preferred editor.
 
 -   Try to avoid line lengths above 100 characters, use line breaks instead.
@@ -60,4 +60,4 @@ As a pure community-driven project without major corporate backing, we also welc
 
 ## Credits
 
-Thank you to all the people who have already contributed to projects of mainsail-crew!
+Thank you to all the people who have already contributed to projects of MOMENT3D!

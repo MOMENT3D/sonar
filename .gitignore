@@ -1,2 +1,6 @@
 # ignore config
 tools/.config
+.vs/
+.vs/*
+.bin/
+.obj/

@@ -3,14 +3,14 @@
 ####
 #### Written by Stephan Wendel aka KwadFan <me@stephanwe.de>
 #### Copyright 2022
-#### https://github.com/mainsail-crew/sonar
+#### https://github.com/MOMENT3D/sonar
 ####
 #### This File is distributed under GPLv3
 ####
 # shellcheck disable=all
 
 # sonar repo
-[[ -n "$SONAR_REPO_SHIP" ]] || SONAR_REPO_SHIP=https://github.com/mainsail-crew/sonar.git
+[[ -n "$SONAR_REPO_SHIP" ]] || SONAR_REPO_SHIP=https://github.com/MOMENT3D/sonar.git
 [[ -n "$SONAR_REPO_BRANCH" ]] || SONAR_REPO_BRANCH=main
 
 # sonar setup

@@ -1,4 +1,5 @@
-# Sonar
+# Sonar for Moment
+Based on Mainsail-crew Sonar. customized Moment.
 
 A small Keepalive daemon for MainsailOS (or any other Raspberry Pi OS based Image).
 
